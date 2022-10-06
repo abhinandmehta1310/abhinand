@@ -1,7 +1,4 @@
-# abhinand
-my first project built using HTML
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>abhinand web</title>
